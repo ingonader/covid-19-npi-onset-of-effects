@@ -16,3 +16,8 @@ With contributions from:
 * Using a non-parametrical approach (random forest) and ALE plots to visualize what the model has learned from the data
 * bootstrap analysis to estimate variability in effects
 
+
+
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (GPL-v3).
