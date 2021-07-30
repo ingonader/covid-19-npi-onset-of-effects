@@ -1,6 +1,6 @@
 # Onset of effects of non-pharmaceutical interventions on COVID-19
 
-Analysis related to the preprint on medarxiv: https://www.medrxiv.org/content/10.1101/2020.09.02.20185660v1
+Analysis related to: Nader, I.W., Zeilinger, E.L., Jomar, D., & Zauchner, C. Onset of effects of non-pharmaceutical interventions on COVID-19 infection rates in 176 countries. *BMC Public Health* **21,** 1472 (2021). https://doi.org/10.1186/s12889-021-11530-0
 
 With contributions from:
 
